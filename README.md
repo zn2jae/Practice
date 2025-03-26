@@ -18,7 +18,7 @@ The moral of the story is *"Respect nature and learn from the past"*
 | 2     | Bewitch     | To use magic to make someone do    |
 | 3     | Ancient   | Very old  |
 | 4     | Moved    | Emotionally affected    |
-| 5     | Preservation     | The act oh preserving something     |
+| 5     | Preservation     | The act of preserving something     |
 
 ## 4. Reflection
 - Think about your experience of preventing something bad using your past experience
